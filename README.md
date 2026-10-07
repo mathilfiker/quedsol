@@ -1,4 +1,4 @@
-# QUEDSol
+# QUEDSol: QUantum Electronic Descriptors in SOLution
 
 Repository containing the **QUEDSol** framework as presented in the publication:
 
