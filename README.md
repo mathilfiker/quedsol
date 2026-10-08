@@ -10,7 +10,7 @@ QUEDSol allows the user to rapidly generate electronic descriptors representativ
 
 ## Repository Structure
 
-- **`enn/`** — Property prediction models trained with *MACE* on the 70-set. All other models (*Allegro* and smaller training sets) are available for download from the associated **Zenodo** [repository] (https://doi.org/10.5281/zenodo.22704381).
+- **`enn/`** — Property prediction models trained with *MACE* on the 70-set. All other models (*Allegro* and smaller training sets) are available for download from the associated **Zenodo** repository (https://doi.org/10.5281/zenodo.22704381).
 - **`models_analysis/`** — Scripts to reproduce the results presented in the original publication.
 - **`scripts/`** — All scripts necessary to employ the QUEDSol framework, for both hydration free energy predictions and custom studies.
 
