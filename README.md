@@ -2,7 +2,7 @@
 
 Repository containing the **QUEDSol** framework as presented in the publication:
 
-> *"From Vacuum Geometry to Solution-Phase Electronic Properties and Thermodynamics via Equivariant Neural Networks."*
+> *"From Vacuum Geometry to Solution-Phase Electronic Properties and Thermodynamics via Equivariant Neural Networks."* (https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010245/v1)
 
 QUEDSol allows the user to rapidly generate electronic descriptors representative of the **solvated phase** starting from **gas-phase coordinates**.
 
